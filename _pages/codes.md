@@ -6,8 +6,10 @@ description: Codes for all examples in the book. Open each chapter for a detaile
 nav: true
 nav_order: 6
 horizontal: false
+display_categories: [part1]
 ---
 
+<!-- pages/projects.md -->
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
