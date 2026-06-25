@@ -180,9 +180,9 @@ collections:
     defaults:
       layout: post
     output: true
-  projects:
-    output: true
-    permalink: /projects/:path/
+#  projects:
+#    output: true
+#    permalink: /projects/:path/
   teachings:
     output: true
   codes:
