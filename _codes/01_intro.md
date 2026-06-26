@@ -4,7 +4,6 @@ title: chapter 1
 description: introduction
 img: /assets/img/chap01intro.jpg
 importance: 1
-category: part1
 github: https://github.com/markasch/DT-tbx-examples/blob/master/01intro
 ---
 
