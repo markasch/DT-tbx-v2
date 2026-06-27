@@ -445,7 +445,6 @@ h1,
 h2,
 h3,
 h4,
-h5,
 h6,
 pre,
 code,
@@ -593,6 +592,13 @@ input.raw_input {
   margin: 0em 0.25em;
   -webkit-box-shadow: none;
   box-shadow: none;
+}
+
+audio {
+  display: inline;
+  vertical-align: middle;
+  align-content: center;
+  margin-left: 20%;
 }
 
 
