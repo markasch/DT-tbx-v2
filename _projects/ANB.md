@@ -37,7 +37,7 @@ A commercial product patented under the name Fractal Wall®, based on this twin,
     Overview of the fractal wall, its installation and its structure. The material used is "wood-concrete".
 </div>
 
-Details of the twin and simulation results can be found in our paper {% cite Felix2007 %} and the ASA [presentation](/DT-tbx-v1/assets/pdf/FelixASA2005.pdf).
+Details of the twin and simulation results can be found in our paper {% cite Felix2007 %} and the ASA [presentation](/assets/pdf/FelixASA2005.pdf).
 
 References
 ----------
