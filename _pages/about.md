@@ -20,7 +20,7 @@ Here is a preview of the book's [cover](/assets/pdf/Asch_DT-tbx-SIAM.pdf).
 My career has covered a lot of ground: from academia to industry, passing through governmental, European and international institutions. Learning from all of these, has provided a broad persepctive of how and what mathematics can propose to society.
 For more details, please consult my [homepage](http://masch.perso.math.cnrs.fr) and recent [CV](/assets/pdf/Asch_CV_2024.pdf). 
 
-Publications related to the subject of Digital Twins can be found on the  [publications](/publications/) page. My [previous book](https://epubs.siam.org/doi/book/10.1137/1.9781611974546) remains a good source for a detailed presentation of Data Assimilation.
+Publications related to the subject of Digital Twins can be found on the  [publications](/publications/) page. My [previous book](https://epubs.siam.org/doi/book/10.1137/1.9781611974546) remains a good source for a detailed presentation of Data Assimilation. There are also two e-books currently vailable (though they are UNDER CONSTRUCTION): one on [Kalman Filters for Bayesian Inverse Problems](https://markasch.github.io/kfBIPq/), and the other on [Optimal Sceduling for Large-Scale Workflows](https://markasch.github.io/RCP4CDT/) - see also the [repositories](repositories) page.
 
 I provide consulting  and [training](/teaching/)  for all aspects of Digital Twins and their implementations. Please see the dedicated pages.
 
