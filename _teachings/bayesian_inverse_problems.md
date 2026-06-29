@@ -19,7 +19,7 @@ schedule:
       - name: Assignment 1
         url: /assets/pdf/example_pdf.pdf
 
-  - weeek: 2
+  - week: 2
     date: 
     topic: Bayesian inverse problems
     description: Formulation and solution of stochastic inverse problems.
